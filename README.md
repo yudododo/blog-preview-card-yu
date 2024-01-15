@@ -15,7 +15,7 @@ Hope that you get a grasp of my current front end skills and help me improve wha
 
 ### Screenshot
 
-![](./screenshot.png)
+![](assets/screenshot.png)
 
 
 ## My process
