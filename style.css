@@ -51,13 +51,13 @@ body{
     font-family: Figtree;
 }
 
-.attribution { font-size: 11px; text-align: center; margin:20px;}
+.attribution { font-size: 11px; text-align: center;}
 .attribution a { color: hsl(228, 45%, 44%); }
 
 .container{
     background: white;
     width: 300px;
-    margin: 0 auto;
+    margin: 50px auto;
     padding: 15px;
     border: 1px solid black;
     box-shadow: 11px 11px 1px black;
