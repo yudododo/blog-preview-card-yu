@@ -7,8 +7,6 @@ Hope that you get a grasp of my current front end skills and help me improve wha
 
 <img src="./screenshot_desktop.png" width="90%">
 <img src="./screenshot_mobile.png" width="90%">
-![](./screenshot_desktop.png)
-![](./screenshot_mobile.png)
 
 ## The challenge🔥
 
